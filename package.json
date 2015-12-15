@@ -1,0 +1,23 @@
+{
+  "name": "@vineesh1/fccnpm",
+  "version": "1.0.0",
+  "description": "Freecodecamp NPM workshopper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineesh1/fcc-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "workshopper"
+  ],
+  "author": "vineesh1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineesh1/fcc-npm/issues"
+  },
+  "homepage": "https://github.com/vineesh1/fcc-npm#readme"
+}
